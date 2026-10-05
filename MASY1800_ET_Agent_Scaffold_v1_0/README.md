@@ -26,3 +26,4 @@ Students specialize the files under `agents/<agent-name>/`. Files under `core/` 
 **No OpenAI API key is required by this scaffold.** It does not call the OpenAI API. ChatGPT is the interactive model runtime; the Python tools are local prompt/validation utilities.
 
 Start with `START_HERE.md` and the Student Operating Guide in `docs/`.
+Finalized for Assignment 2 - Emerging Technology Creation Agent.
