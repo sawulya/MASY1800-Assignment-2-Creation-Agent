@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI (LLM-based AI agents that can reason over a task, select tools, and execute multi-step workflows)",
+  "intended_application": "An internal research assistant that searches approved public sources, summarizes competitor and market information, drafts a weekly brief, and leaves final editing and publication to an employee.",
+  "organization": "A small B2B SaaS startup with approximately 30 employees.",
+  "industry_sector": "Business software / SaaS",
+  "business_need": "Reduce the time employees spend on repetitive market scanning and first-draft synthesis.",
+  "users_stakeholders": "Strategy, product, marketing, and founders; no external customer directly relies on the agent's output without human review.",
+  "adoption_posture": "Aggressive / leading-edge: comfortable experimenting with new tools when failures are inexpensive and reversible.",
+  "capabilities_constraints": "Limited engineering capacity and budget, but strong use of cloud SaaS tools. The application uses public or approved non-sensitive data and has a mandatory human review step before external use.",
+  "risk_consequence_context": "Low to moderate consequence. A poor summary can waste time or mislead internal discussion, but outputs are reviewable, reversible, and not authorized to take financial or customer-account actions.",
+  "management_question": "Over the next 3 months, should management allow a small internal pilot of agentic AI for recurring market-research briefs, and what creation-history implications matter most?",
+  "time_horizon": "3 months",
+  "additional_context": "Keep the general creation/evolution history of agentic AI stable. Change only the contextual interpretation and management implication where the lower consequence and faster adoption posture justify it."
+}

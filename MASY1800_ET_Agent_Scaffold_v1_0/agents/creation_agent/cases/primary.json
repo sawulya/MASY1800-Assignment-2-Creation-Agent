@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI (LLM-based AI agents that can reason over a task, select tools, and execute multi-step workflows)",
+  "intended_application": "A customer-service and account-operations agent that can triage routine inquiries, retrieve approved account information, execute tightly bounded service actions, and escalate exceptions to human staff.",
+  "organization": "A U.S. online brokerage serving retail investors; evaluated as a generic regulated broker-dealer rather than a named firm.",
+  "industry_sector": "Financial services / securities brokerage",
+  "business_need": "Reduce repetitive support workload and response time while preserving accurate, supervised, and auditable customer service.",
+  "users_stakeholders": "Retail customers, customer-service representatives, operations staff, compliance and supervision teams, information-security staff, product owners, and management.",
+  "adoption_posture": "Moderate / fast-follower: willing to pilot proven capabilities but unwilling to accept uncontrolled customer-facing autonomy.",
+  "capabilities_constraints": "Existing APIs and internal knowledge systems are assumed to be available, but access must be permissioned. Customer data is sensitive; customer communications and actions may require retention, supervision, authentication, and escalation controls. Human staff remain available for exceptions.",
+  "risk_consequence_context": "High consequence. Errors can create customer harm, privacy/security exposure, inaccurate communications, unauthorized actions, or regulatory and recordkeeping problems. Some actions are reversible, but others can have financial or compliance consequences.",
+  "management_question": "Over the next 12 months, should management proceed with a bounded pilot of agentic AI for routine service workflows, and what creation-history implications should shape the pilot design?",
+  "time_horizon": "12 months",
+  "additional_context": "The Creation Agent should not decide full organizational readiness or legal compliance. It should explain how the technology's evolution from LLM reasoning plus tool use and orchestration informs a prudent pilot boundary."
+}
